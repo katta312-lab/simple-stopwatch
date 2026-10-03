@@ -2,6 +2,13 @@
 
 開始・停止・再開・リセットに対応したシンプルなストップウォッチです。日本語表示、スマートフォン対応、外部ライブラリ不要。
 
+## 公開先
+
+- サイト: https://simple-stopwatch.katta312.workers.dev/
+- GitHub: https://github.com/katta312-lab/simple-stopwatch
+
+Cloudflare Workers に静的ファイルを直接アップロードして公開しています。GitHub への push に連動する自動デプロイは設定していません。
+
 ## 使い方
 
 - 「開始」で計測、「停止」で一時停止、「再開」で続きから計測します。
